@@ -1,5 +1,6 @@
 
 # coding: utf-8
+#Exploring a dataset in Spark (coz my weekend plan has just changed)
 
 # In[1]:
 
